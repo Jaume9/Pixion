@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+canvas {
+  width: 100vw;
+  height: 90vh; /* Deja un poco para la barra/menu */
+  image-rendering: pixelated;
+}
